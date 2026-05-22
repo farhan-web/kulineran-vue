@@ -1,0 +1,141 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "nama": "Nasi Goreng Telur",
+      "harga": 12000,
+      "gambar": "nasi-goreng-telor.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Mie Goreng",
+      "harga": 11000,
+      "gambar": "mie-goreng.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Nasi Rames",
+      "harga": 13000,
+      "gambar": "nasi-rames.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nama": "Nasi Goreng Telur",
+      "harga": 12000,
+      "gambar": "nasi-goreng-telor.jpg",
+      "deskripsi": "Nasi goreng dengan telur ceplok yang lezat dan gurih."
+    },
+    {
+      "id": 2,
+      "nama": "Mie Goreng",
+      "harga": 11000,
+      "gambar": "mie-goreng.jpg",
+      "deskripsi": "Mie goreng dengan bumbu spesial yang kaya rasa."
+    },
+    {
+      "id": 3,
+      "nama": "Nasi Rames",
+      "harga": 13000,
+      "gambar": "nasi-rames.jpg",
+      "deskripsi": "Nasi dengan lauk pilihan yang lengkap dan bergizi."
+    },
+    {
+      "id": 4,
+      "nama": "Bakso",
+      "harga": 14000,
+      "gambar": "bakso.jpg",
+      "deskripsi": "Bakso sapi kenyal dengan kuah kaldu yang gurih."
+    },
+    {
+      "id": 5,
+      "nama": "Mie Ayam Bakso",
+      "harga": 15000,
+      "gambar": "mie-ayam-bakso.jpg",
+      "deskripsi": "Kombinasi mie ayam dan bakso dalam satu mangkuk."
+    },
+    {
+      "id": 6,
+      "nama": "Nasi Ayam Geprek",
+      "harga": 16000,
+      "gambar": "nasi-ayam-geprek.jpg",
+      "deskripsi": "Ayam goreng geprek dengan sambal pedas yang menggugah selera."
+    },
+    {
+      "id": 7,
+      "nama": "Lontong Opor Ayam",
+      "harga": 17000,
+      "gambar": "lontong-opor-ayam.jpg",
+      "deskripsi": "Lontong dengan opor ayam santan yang kaya rempah."
+    },
+    {
+      "id": 8,
+      "nama": "Sate Ayam",
+      "harga": 20000,
+      "gambar": "sate-ayam.jpg",
+      "deskripsi": "Sate ayam dengan bumbu kacang dan kecap yang lezat."
+    },
+    {
+      "id": 9,
+      "nama": "Kentang Goreng",
+      "harga": 10000,
+      "gambar": "kentang-goreng.jpg",
+      "deskripsi": "Kentang goreng crispy dengan berbagai pilihan saus."
+    },
+    {
+      "id": 10,
+      "nama": "Pangsit",
+      "harga": 12000,
+      "gambar": "pangsit.jpg",
+      "deskripsi": "Pangsit goreng renyah dengan isi daging ayam cincang."
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah_pemesanan": 1,
+      "keterangan": "",
+      "products": {
+        "id": 2,
+        "nama": "Mie Goreng",
+        "harga": 11000,
+        "gambar": "mie-goreng.jpg",
+        "deskripsi": "Mie goreng dengan bumbu spesial yang kaya rasa."
+      },
+      "id": 1
+    },
+    {
+      "jumlah_pemesanan": 1,
+      "keterangan": "",
+      "products": {
+        "id": 1,
+        "nama": "Nasi Goreng Telur",
+        "harga": 12000,
+        "gambar": "nasi-goreng-telor.jpg",
+        "deskripsi": "Nasi goreng dengan telur ceplok yang lezat dan gurih."
+      },
+      "id": 2
+    }
+  ],
+  "pesanans": [
+    {
+      "nama": "1",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": 1,
+          "keterangan": "",
+          "products": {
+            "id": 2,
+            "nama": "Mie Goreng",
+            "harga": 11000,
+            "gambar": "mie-goreng.jpg",
+            "deskripsi": "Mie goreng dengan bumbu spesial yang kaya rasa."
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
